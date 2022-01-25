@@ -1,0 +1,16 @@
+(a) Contar os dias em que n˜ao foram observadas manchas solares em cada mˆes,
+para um dado ano.
+(b) Determinar o ano e o mˆes que tiveram mais dias sem manchas solares.
+(c) Determinar o ano e o mˆes que tiveram mais manchas solares.
+(d) Determinar o m´aximo e o m´ınimo de manchas solares em um per´ıodo dado.
+Exemplo: de janeiro de 1818 a julho de 1834.
+(e) Calcular a m´edia mensal de cada mˆes, para um dado ano.
+(f) Calcular o desvio padr˜ao mensal a partir das observa¸c˜oes di´arias do mˆes pela
+f´ormula dada no arquivo dos dados de observa¸c˜oes mensais.
+(g) Pesquisar sobre o m´aximo e m´ınimo solar e ciclos solares. Determinar a dura¸c˜ao
+dos ciclos solares a partir do ciclo 1. O ciclo 4 (de setembro de 1784 a maio de
+1798) durou 13 anos e 8 meses. Foi o mais longo at´e hoje registrado. O ciclo
+de menor dura¸c˜ao foi o de no 2, com exatos 9 anos (desde junho de 1766 a
+junho de 1775).
+
+preciso fazer isso no programa de mancha solar, alguem pra ajudar?
